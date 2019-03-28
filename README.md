@@ -5,6 +5,6 @@
 ![](qrcode_for_gh_5bab759275ce_258.jpg)
 
 # 备份工具请联系   
-![](WechatIMG135.jpeg)   
+![](WechatIMG135.jpeg){:width="200"}   
 
-![](WechatIMG134.jpeg)   
+![](WechatIMG134.jpeg){:width="200"}
